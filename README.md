@@ -1,9 +1,8 @@
-=============================================================================
 AZIZ LED Ring Light Firmware
+
 Copyright (C) 2013 Stephen Richardson (steve@tangentaudio.com)
 
 http://www.tangentaudio.com/
-=============================================================================
 
 This is the firmware code to control the AZIZ LED light ring.  AZIZ is based
 around an Atmel ATTiny1634 microcontroller, connected to a Texas Instruments
@@ -18,8 +17,6 @@ in more detail.
 Code builds in Atmel Studio V6.1 Beta.
 
 See http://www.tangentaudio.com/electronics/aziz/ for more information.
-
-=============================================================================
 
 This Source Code Form is subject to the terms of the Mozilla Public
 License, v. 2.0. If a copy of the MPL was not distributed with this
